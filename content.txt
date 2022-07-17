@@ -1,0 +1,39 @@
+******************** SITE CONTENT ********************
+
+—------------Colors—------------
+
+background dark : #00265B
+background light :  #B6995A
+color : #F01237
+text color  : #FFFFFF
+
+—------------All Section—------------:
+Header
+Home
+About
+Services
+Skills
+Portfolio
+Contact form
+Footer
+
+1. - - - - - Header Section Content - - - - - 
+
+  Home, About, Services, Portfolio, Team, Contact
+
+2. - - - - - Home Section Content - - - - - 
+
+  Zion Williamson
+  American Professional Basketball Player
+
+3. - - - - - About Section Content - - - - - 
+
+4. - - - - - Services Section Content - - - - - 
+
+5. - - - - - Skills Section Content - - - - - 
+
+6. - - - - - Portfolio Section Content - - - - - 
+
+6. - - - - - Contact Form Section Content - - - - - 
+
+6. - - - - - Footer Section Content - - - - - 
